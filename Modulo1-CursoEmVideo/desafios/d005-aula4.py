@@ -1,0 +1,10 @@
+""" Criar um programa que leia algo pelo teclado e mostre o seu tipo primitivo e todas as informações possíveis sobre ele """
+var = input('Escreve algo: ')
+print(var , 'é do tipo? ',type(var))
+print('É só espaço(s)? ',var.isspace())
+print(var , 'é numero? ',var.isnumeric())
+print(var , 'é alfabético? ',var.isalpha())
+print(var , 'é alphanumerico? ',var.isalnum())
+print(var , 'está em maiúscula? ',var.isupper())
+print(var , 'está em minúscula? ',var.islower())
+print(var , 'está capitalizado? ',var.istitle())
