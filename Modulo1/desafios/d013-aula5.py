@@ -8,4 +8,4 @@ desc = (prod*95)/100
     100-5=95    desc
 """
 
-print('O produto a {} com desconto de 5% fica a {}'.format(prod,desc))
+print('O produto a {} com desconto de 5% fica a {:.2f}'.format(prod,desc))

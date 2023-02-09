@@ -5,6 +5,6 @@ aumento = (salario*115)/100
 """ 
         %          Salario
        100         salario
-    100+15=115     aumento
+    100+15=115     x
 """
-print('Caso o seu salário tenha um aumento de 15% de {}, passrá a receber {}'.format(salario, aumento))
+print('Caso o seu salário tenha um aumento de 15% de {}, passará a receber {:.2f}'.format(salario, aumento))
