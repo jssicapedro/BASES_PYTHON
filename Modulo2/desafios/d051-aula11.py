@@ -1,4 +1,4 @@
-# Programa que leia 6 números inteiros e mostra a soma daqueles que forem pares. Se o valor dado pelo utilizador for impar desconsidera-o
+# Programa que leia 6 números inteiros e mostra a soma daqueles que forem pares. Se o valor dado pelo utilizador for ímpar desconsidera-o
 
 s = 0
 for c in range(1, 7):
