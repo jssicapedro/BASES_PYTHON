@@ -1,0 +1,5 @@
+pessoa = ('Ana', 25, 'F', 74)
+print(pessoa)
+del(pessoa)
+pessoa = ('David', 23, 'M', 86)
+print(pessoa)
