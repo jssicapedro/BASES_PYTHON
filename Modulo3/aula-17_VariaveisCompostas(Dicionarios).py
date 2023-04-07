@@ -1,5 +1,5 @@
 # dicionário com nome e idade de uma pessoa
-dados = dict()
+dados = dict() # dados = {}
 dados = {'nome':'Pedro', 'idade':25}
 
 # passamos a ter Pedro no indice nome e 25 no indice idade
